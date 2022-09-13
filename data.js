@@ -1,6 +1,7 @@
 const data = {
     products: [
       {
+        _id:'1',
         name: 'Fettuccine Alfredo',
         slug: 'fettuccine Alfredo',
         category: 'mill',
@@ -13,6 +14,7 @@ const data = {
         description: 'high quality shirt',
       },
       {
+        _id:'2',
         name: 'Skillet Apple Pork Chops',
         slug: 'skillet Apple Pork Chops',
         category: 'firstfood',
@@ -25,6 +27,7 @@ const data = {
         description: 'high quality product',
       },
       {
+        _id:'3',
         name: 'Fresh sardines',
         slug: 'fresh sardines',
         category: 'lunch',
@@ -37,6 +40,7 @@ const data = {
         description: 'high quality product',
       },
       {
+        _id:'4',
         name: 'Chivito uruguayo',
         slug: 'chivito uruguayo',
         category: 'Brackfirst',
